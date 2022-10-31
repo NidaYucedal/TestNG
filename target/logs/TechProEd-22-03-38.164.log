@@ -1,0 +1,5 @@
+2022-10-15 22:03:38,159 INFO t.l.Log4jTest1 [main] LOG INFO
+2022-10-15 22:03:38,166 DEBUG t.l.Log4jTest1 [main] LOG debug
+2022-10-15 22:03:38,167 ERROR t.l.Log4jTest1 [main] LOG error
+2022-10-15 22:03:38,167 FATAL t.l.Log4jTest1 [main] LOG fatal
+2022-10-15 22:03:38,167 WARN t.l.Log4jTest1 [main] LOG WARN

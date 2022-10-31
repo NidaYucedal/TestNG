@@ -1,0 +1,2 @@
+2022-10-15 21:58:36,058 ERROR t.l.Log4jTest1 [main] LOG error
+2022-10-15 21:58:36,065 FATAL t.l.Log4jTest1 [main] LOG fatal

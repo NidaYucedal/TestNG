@@ -8,13 +8,20 @@ import utilities.Driver;
 import utilities.ReusableMethods;
 
 import java.io.IOException;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class C01_ScreenShotReusable {
 
+    private static Logger logger = LogManager.getLogger(C01_ScreenShotReusable.class.getName());
+
     @Test
     public void test01() throws IOException {
+
+        logger.info("hepsiburada sitesine gidilir");
         // hepsiburada sayfasina gidip fotografini cekelim
         Driver.getDriver().get(ConfigReader.getProperty("hepsi"));
+        logger.info("ekran goruntusu alır");
         ReusableMethods.getScreenshot("hepsiburada");
         Driver.closeDriver();
     }

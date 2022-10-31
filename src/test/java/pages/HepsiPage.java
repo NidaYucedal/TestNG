@@ -25,6 +25,8 @@ public class HepsiPage {
     public List<WebElement> titles;
 
 
+    @FindBy(xpath = "//*[@id='onetrust-accept-btn-handler']")
+    public WebElement cookie;
 
 
 }

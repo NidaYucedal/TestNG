@@ -1,7 +1,7 @@
 package tests.day21;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 import pages.HepsiPage;
 import utilities.ConfigReader;
@@ -10,15 +10,22 @@ import utilities.ReusableMethods;
 
 import java.io.IOException;
 
-public class C03_Homework {
+public class C03_TestNG {
 
+    HepsiPage hepsiPage;
+
+    JavascriptExecutor js=(JavascriptExecutor) Driver.getDriver();
     @Test
     public void hepsiBurada() throws IOException {
 
         // hepsiburada sayfasina gidip fotografini cekelim
         Driver.getDriver().get(ConfigReader.getProperty("hepsi"));
 
-        HepsiPage hepsiPage = new HepsiPage();
+        hepsiPage=new HepsiPage();
+
+        //cookie kabul et
+        js.executeScript("arguments[0].click();", hepsiPage.cookie);
+
 
         // Elektronik altında bilgisayar/tablet altındaki tüm linkleri tıklayalım
         ReusableMethods.getActions().moveToElement(hepsiPage.electronics).perform();
