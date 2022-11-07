@@ -9,7 +9,7 @@ public class ListenersTest01 {
     @Test
     public void test1() {
         System.out.println("Test Case 1 - PASS");
-        Assert.assertTrue(true);//pass
+        Assert.assertTrue(true);//
     }
 
     @Test
