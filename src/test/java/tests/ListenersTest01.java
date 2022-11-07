@@ -15,7 +15,7 @@ public class ListenersTest01 {
     @Test
     public void test2() {
         System.out.println("Test Case 2 - FAILED");
-        Assert.assertTrue(false);//fail
+        Assert.assertTrue(false);/f
     }
 
     @Test
