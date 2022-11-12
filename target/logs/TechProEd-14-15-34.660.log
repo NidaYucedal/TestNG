@@ -1,0 +1,4 @@
+2022-11-12 14:15:34,659 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.smallCacheSize: 256
+2022-11-12 14:15:34,662 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.normalCacheSize: 64
+2022-11-12 14:15:34,662 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-11-12 14:15:34,662 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.cacheTrimInterval: 8192

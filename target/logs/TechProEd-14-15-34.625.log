@@ -1,0 +1,4 @@
+2022-11-12 14:15:34,624 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-2] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@127bfb46
+2022-11-12 14:15:34,628 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-2] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@13120578
+2022-11-12 14:15:34,630 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-2] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@3f2e78aa
+2022-11-12 14:15:34,656 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.numHeapArenas: 8

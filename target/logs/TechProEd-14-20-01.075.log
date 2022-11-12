@@ -1,0 +1,4 @@
+2022-11-12 14:20:01,070 DEBUG i.n.u.i.l.InternalLoggerFactory [TestNG-test=Parallel test 2-3] Using Log4J2 as the default logging framework
+2022-11-12 14:20:01,085 DEBUG i.n.u.ResourceLeakDetector [TestNG-test=Parallel test 2-3] -Dio.netty.leakDetection.level: sımple
+2022-11-12 14:20:01,085 DEBUG i.n.u.ResourceLeakDetector [TestNG-test=Parallel test 2-3] -Dio.netty.leakDetection.targetRecords: 4
+2022-11-12 14:20:01,092 DEBUG i.n.u.ResourceLeakDetectorFactory [TestNG-test=Parallel test 2-3] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7bb4cc92

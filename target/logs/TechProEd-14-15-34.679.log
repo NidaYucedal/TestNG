@@ -1,0 +1,4 @@
+2022-11-12 14:15:34,678 DEBUG i.n.b.ByteBufUtil [TestNG-test=Parallel test 2-2] -Dio.netty.threadLocalDirectBufferSize: 0
+2022-11-12 14:15:34,681 DEBUG i.n.b.ByteBufUtil [TestNG-test=Parallel test 2-2] -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-11-12 14:15:35,022 DEBUG i.n.c.DefaultChannelId [Forwarding newSession on session null to remote] -Dio.netty.processId: 8604 (auto-detected)
+2022-11-12 14:15:35,025 DEBUG i.n.u.NetUtil [Forwarding newSession on session null to remote] -Djava.net.preferIPv4Stack: false

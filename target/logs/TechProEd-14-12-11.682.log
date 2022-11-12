@@ -1,0 +1,4 @@
+2022-11-12 14:12:11,681 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@18b8fb0d
+2022-11-12 14:12:11,684 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@505acc9f
+2022-11-12 14:12:11,686 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@59823248
+2022-11-12 14:12:11,687 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@17746014

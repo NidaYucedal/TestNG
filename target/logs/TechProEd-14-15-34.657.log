@@ -1,0 +1,4 @@
+2022-11-12 14:15:34,656 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.numDirectArenas: 8
+2022-11-12 14:15:34,658 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.pageSize: 8192
+2022-11-12 14:15:34,659 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.maxOrder: 9
+2022-11-12 14:15:34,659 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-2] -Dio.netty.allocator.chunkSize: 4194304

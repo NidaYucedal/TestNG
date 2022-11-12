@@ -1,0 +1,4 @@
+2022-11-12 14:12:11,362 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-11-12 14:12:11,364 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] Platform: Windows
+2022-11-12 14:12:11,366 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] -Dio.netty.maxDirectMemory: -1 bytes
+2022-11-12 14:12:11,366 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] -Dio.netty.uninitializedArrayAllocationThreshold: -1

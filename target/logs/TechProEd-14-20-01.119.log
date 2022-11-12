@@ -1,0 +1,5 @@
+2022-11-12 14:20:01,117 DEBUG i.n.u.i.PlatformDependent0 [TestNG-test=Parallel test 2-3] -Dio.netty.noUnsafe: false
+2022-11-12 14:20:01,121 DEBUG i.n.u.i.PlatformDependent0 [TestNG-test=Parallel test 2-3] Java version: 18
+2022-11-12 14:20:01,123 DEBUG i.n.u.i.PlatformDependent0 [TestNG-test=Parallel test 2-3] sun.misc.Unsafe.theUnsafe: available
+2022-11-12 14:20:01,124 DEBUG i.n.u.i.PlatformDependent0 [TestNG-test=Parallel test 2-3] sun.misc.Unsafe.copyMemory: available
+2022-11-12 14:20:01,125 DEBUG i.n.u.i.PlatformDependent0 [TestNG-test=Parallel test 2-3] sun.misc.Unsafe.storeFence: available
