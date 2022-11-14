@@ -26,7 +26,5 @@ public class SeleniumGrid3 {
         driver.quit();
 
 
-
-
     }
 }
