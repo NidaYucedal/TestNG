@@ -1,0 +1,5 @@
+2022-11-19 15:38:55,959 DEBUG i.n.u.i.l.InternalLoggerFactory [main] Using Log4J2 as the default logging framework
+2022-11-19 15:38:55,974 DEBUG i.n.u.ResourceLeakDetector [main] -Dio.netty.leakDetection.level: sımple
+2022-11-19 15:38:55,974 DEBUG i.n.u.ResourceLeakDetector [main] -Dio.netty.leakDetection.targetRecords: 4
+2022-11-19 15:38:55,981 DEBUG i.n.u.ResourceLeakDetectorFactory [main] Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@757f675c
+2022-11-19 15:38:56,023 DEBUG i.n.u.i.PlatformDependent0 [main] -Dio.netty.noUnsafe: false

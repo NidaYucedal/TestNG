@@ -1,0 +1,4 @@
+2022-11-22 13:59:03,979 DEBUG i.n.u.i.CleanerJava9 [TestNG-test=Parallel test 2-3] java.nio.ByteBuffer.cleaner(): available
+2022-11-22 13:59:03,982 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] -Dio.netty.noPreferDirect: false
+2022-11-22 13:59:03,994 DEBUG i.n.u.i.PlatformDependent [TestNG-test=Parallel test 2-3] org.jctools-core.MpscChunkedArrayQueue: available
+2022-11-22 13:59:04,021 DEBUG i.n.u.i.InternalThreadLocalMap [TestNG-test=Parallel test 2-3] -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024

@@ -1,0 +1,4 @@
+2022-11-22 13:59:04,389 DEBUG i.n.c.MultithreadEventLoopGroup [TestNG-test=Parallel test 2-3] -Dio.netty.eventLoopThreads: 8
+2022-11-22 13:59:04,404 DEBUG i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] -Dio.netty.noKeySetOptimization: false
+2022-11-22 13:59:04,405 DEBUG i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-11-22 13:59:04,421 TRACE i.n.c.n.NioEventLoop [TestNG-test=Parallel test 2-3] instrumented a special java.util.Set into: sun.nio.ch.WEPollSelectorImpl@12a04b92

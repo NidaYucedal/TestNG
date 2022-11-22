@@ -1,0 +1,4 @@
+2022-11-22 13:59:04,496 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-3] -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-11-22 13:59:04,500 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-3] -Dio.netty.allocator.useCacheForAllThreads: false
+2022-11-22 13:59:04,500 DEBUG i.n.b.PooledByteBufAllocator [TestNG-test=Parallel test 2-3] -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-11-22 13:59:04,515 DEBUG i.n.b.ByteBufUtil [TestNG-test=Parallel test 2-3] -Dio.netty.allocator.type: pooled
