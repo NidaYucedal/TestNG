@@ -28,6 +28,8 @@ public class SeleniumGrid01 {
         System.out.println("Current Thread : " + Thread.currentThread());
         System.out.println("Blue Rental Title : " + driver.getTitle());
         driver.quit();
+
+
     }
 }
 
