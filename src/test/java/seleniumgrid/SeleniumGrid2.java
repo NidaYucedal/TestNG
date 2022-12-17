@@ -39,7 +39,5 @@ public class SeleniumGrid2 {
 
 
 
-
-
     }
 }
