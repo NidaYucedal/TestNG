@@ -27,7 +27,7 @@ public class C02_DataProvider {
         //login butonuna bas
         //Data provider ile 3 farklı userEmail ve 3 farklı password girelim
         //login butonuna tiklayin
-        //Degerleri girildiginde sayfaya basarili sekilde girilemedigini test et  jh
+        //Degerleri girildiginde sayfaya basarili sekilde girilemedigini test et  j
 
 
         Driver.getDriver().get(ConfigReader.getProperty("brcUrl"));
